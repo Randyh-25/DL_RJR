@@ -66,7 +66,3 @@ Semua hasil dari AI telah diverifikasi, dimodifikasi, dan diuji oleh tim untuk m
 - Joshia Fernandes Sectio Purba - 122140170
 - Randy Hendriyawan - 122140171
 
-## Catatan Pengumpulan
-- Source code lengkap tersedia di repositori ini.
-- Laporan PDF dikompilasi dari LaTeX sesuai template IF ITERA.
-- Tautan GitHub/Colab disertakan pada laporan akhir.
