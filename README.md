@@ -15,8 +15,8 @@ Tujuan utama:
 |------------------|------------------------|
 | Optimizer        | Adam (default)         |
 | Learning Rate    | 0.001                  |
-| Batch Size       | 32                     |
-| Epoch            | 20                     |
+| Batch Size       | 16                     |
+| Epoch            | 10                     |
 | Loss Function    | CrossEntropyLoss       |
 
 ## Perbandingan Plain-34 vs ResNet-34
@@ -34,24 +34,6 @@ Residual connection pada ResNet-34 berhasil mengatasi masalah degradasi yang dia
 - Val Acc meningkat signifikan dari 40.72% → 58.37% (+17.65 pp, ≈+43% relatif).  
 - ResNet-34 juga mencapai akurasi validasi lebih cepat (epoch-1 ResNet sudah melampaui performa terbaik Plain-34).  
 - Hal ini membuktikan bahwa residual learning membantu optimisasi menjadi lebih stabil serta meningkatkan generalization.  
-
-## Struktur Repositori
-```
-├── models/
-│   ├── plain34.py
-│   ├── resnet34.py
-│   └── modifications/
-├── checkpoints/
-│   ├── best_plain34_model.pth
-│   ├── best_resnet34_model.pth
-├── notebooks/
-│   └── ResNet_vs_Plain34_Analysis.ipynb
-├── assets/
-│   ├── loss_curve.png
-│   └── acc_curve.png
-├── README.md
-└── requirements.txt
-```
 
 ## Peran dan Kontribusi AI Assistant
 Sebagian kode dan dokumentasi dibantu menggunakan ChatGPT/GitHub Copilot, khususnya:
