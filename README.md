@@ -35,14 +35,6 @@ Residual connection pada ResNet-34 berhasil mengatasi masalah degradasi yang dia
 - ResNet-34 juga mencapai akurasi validasi lebih cepat (epoch-1 ResNet sudah melampaui performa terbaik Plain-34).  
 - Hal ini membuktikan bahwa residual learning membantu optimisasi menjadi lebih stabil serta meningkatkan generalization.  
 
-## Peran dan Kontribusi AI Assistant
-Sebagian kode dan dokumentasi dibantu menggunakan ChatGPT/GitHub Copilot, khususnya:
-- Template analisis perbandingan Plain-34 vs ResNet-34.
-- Pembuatan fungsi plotting kurva loss/accuracy.
-- Draft README.md.
-
-Semua hasil dari AI telah diverifikasi, dimodifikasi, dan diuji oleh tim untuk memastikan akurasi dan pemahaman penuh terhadap implementasi.
-
 ## Anggota Kelompok
 - Muhammad Riveldo Hermawan Putra - 122140037
 - Joshia Fernandes Sectio Purba - 122140170
