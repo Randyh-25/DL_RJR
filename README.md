@@ -62,9 +62,9 @@ Sebagian kode dan dokumentasi dibantu menggunakan ChatGPT/GitHub Copilot, khusus
 Semua hasil dari AI telah diverifikasi, dimodifikasi, dan diuji oleh tim untuk memastikan akurasi dan pemahaman penuh terhadap implementasi.
 
 ## Anggota Kelompok
-- Nama 1 (NIM)
-- Nama 2 (NIM)
-- Nama 3 (NIM)
+- Muhammad Riveldo Hermawan Putra - 122140037
+- Joshia Fernandes Sectio Purba - 122140170
+- Randy Hendriyawan - 122140171
 
 ## Catatan Pengumpulan
 - Source code lengkap tersedia di repositori ini.
