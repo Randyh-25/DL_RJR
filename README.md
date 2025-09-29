@@ -27,11 +27,7 @@ Tujuan utama:
 | ResNet-34  | 91.23%    | 58.37%  | 0.29       | 1.35     |
 
 ### Grafik Kurva Training
-**Loss Curve**  
-![Loss Curve](assets/loss_curve.png)  
-
-**Accuracy Curve**  
-![Accuracy Curve](assets/acc_curve.png)  
+![Curve](https://raw.githubusercontent.com/Randyh-25/DL_RJR/refs/heads/main/Accuracy.png)  
 
 ## Analisis Singkat
 Residual connection pada ResNet-34 berhasil mengatasi masalah degradasi yang dialami oleh Plain-34.  
