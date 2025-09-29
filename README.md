@@ -2,6 +2,11 @@
 Mata Kuliah: IF25-40401 - Deep Learning  
 Program Studi: Teknik Informatika - ITERA  
 
+## Anggota Kelompok
+- Muhammad Riveldo Hermawan Putra - 122140037
+- Joshia Fernandes Sectio Purba - 122140170
+- Randy Hendriyawan - 122140171
+
 ## Deskripsi Proyek
 Proyek ini mengeksplorasi perbedaan performa antara Plain-34 (ResNet tanpa residual connection) dan ResNet-34 (dengan residual connection). Selain itu dilakukan juga eksperimen modifikasi lanjutan untuk meningkatkan performa model. Dataset yang digunakan adalah 5 Makanan Indonesia.
 
@@ -34,9 +39,4 @@ Residual connection pada ResNet-34 berhasil mengatasi masalah degradasi yang dia
 - Val Acc meningkat signifikan dari 40.72% → 58.37% (+17.65 pp, ≈+43% relatif).  
 - ResNet-34 juga mencapai akurasi validasi lebih cepat (epoch-1 ResNet sudah melampaui performa terbaik Plain-34).  
 - Hal ini membuktikan bahwa residual learning membantu optimisasi menjadi lebih stabil serta meningkatkan generalization.  
-
-## Anggota Kelompok
-- Muhammad Riveldo Hermawan Putra - 122140037
-- Joshia Fernandes Sectio Purba - 122140170
-- Randy Hendriyawan - 122140171
 
